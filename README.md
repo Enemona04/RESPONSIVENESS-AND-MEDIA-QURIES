@@ -1,3 +1,2 @@
 # RESPONSIVENESS-AND-MEDIA-QURIES
 My responsiveness and media quries tasks
-[RESPONSIVE AND MEDIA QUERIES - Copy.zip](https://github.com/Enemona04/RESPONSIVENESS-AND-MEDIA-QURIES/files/8936531/RESPONSIVE.AND.MEDIA.QUERIES.-.Copy.zip)
